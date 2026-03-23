@@ -78,7 +78,7 @@ By using the Application, the User confirms that they have read, understood, and
 
 6. Data Processing and Privacy
 
-6.1. Application use is governed by the Privacy Policy available at: https://github.com/Dmitry1985/Bmi_calculator2/blob/a768c1bf09c138b1b3e781e282709a8eb2a5a377/Privacy%20policy
+6.1. Application use is governed by the Privacy Policy available at: https://github.com/Dmitry1985/All-Purpose-Excuses/blob/main/privacy_en.md
 
 6.2. The Application may process anonymized technical usage data.
 
