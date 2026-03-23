@@ -1,6 +1,6 @@
 USER AGREEMENT
 
-mobile application “Excuses for All Occasions”
+mobile application “All-Purpose Excuses”
 
 Effective date: 23.03.2026
 
